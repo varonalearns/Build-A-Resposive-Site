@@ -52,8 +52,8 @@ Happy Coding!
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/varonalearns/Mobile-Ordering-App)
-- Live Site URL: [Netlify Live Site](https://effortless-arithmetic-cef6e8.netlify.app)
+- Solution URL: [Github Repo](https://github.com/varonalearns/Build-A-Resposive-Site)
+- Live Site URL: [Netlify Live Site](https://velvety-starship-36748b.netlify.app)
 
 ## Author
 
